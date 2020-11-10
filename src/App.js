@@ -1,13 +1,16 @@
 
 import './App.css';
 import Header from './Header.js'
+import TinderCards from './TinderCards'
+import  SwipeButtons from './SwipeButtons.j'
 
 function App() {
   return (
     <div className="app">
 
-     <h1 >hello</h1>
      <Header/>
+     <TinderCards/>
+     <SwipeButtons/>
     </div>
   );
 }
