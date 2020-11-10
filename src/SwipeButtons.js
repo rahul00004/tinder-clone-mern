@@ -29,5 +29,5 @@ function SwipeButtons() {
         </div>
     )
 }
-import './SwipeButtons.css'
+
 export default SwipeButtons

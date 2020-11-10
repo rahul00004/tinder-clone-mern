@@ -2,7 +2,7 @@
 import './App.css';
 import Header from './Header.js'
 import TinderCards from './TinderCards'
-import  SwipeButtons from './SwipeButtons.j'
+import  SwipeButtons from './SwipeButtons.js'
 
 function App() {
   return (
